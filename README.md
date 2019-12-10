@@ -1,3 +1,3 @@
 # hello-world
 
-I just edited the cloned master branch for testing reason.
+I just made a new branch to edit and then merched it with the master-branch!
